@@ -1,4 +1,4 @@
-package com.xinghai29.helloworld.web;
+package com.xinghai29.web;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

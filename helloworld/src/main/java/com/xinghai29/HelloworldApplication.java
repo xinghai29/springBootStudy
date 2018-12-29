@@ -1,4 +1,4 @@
-package com.xinghai29.helloworld;
+package com.xinghai29;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
